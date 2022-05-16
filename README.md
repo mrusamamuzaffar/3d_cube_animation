@@ -1,6 +1,6 @@
 # 3D cube animation flutter
 
-A new Flutter project.
+3D rotating cube animation using animation controller and also with finger swipe.
 
 ## Getting Started
 
