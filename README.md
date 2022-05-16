@@ -1,4 +1,4 @@
-# flutter_3d_box
+# 3D cube animation flutter
 
 A new Flutter project.
 
