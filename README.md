@@ -1,4 +1,4 @@
-# 3D cube animation-flutter
+# 3D cube animation - flutter
 
 3D rotating cube animation using animation controller and also with finger swipe.
 
