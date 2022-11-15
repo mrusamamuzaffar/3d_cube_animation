@@ -2,6 +2,10 @@
 
 3D rotating cube animation using animation controller and also with finger swipe.
 
+✔️ Sound NullSafety
+
+## GIF
+
 <p align="center">
   <img 
     width=40%
